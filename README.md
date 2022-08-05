@@ -17,3 +17,5 @@ docker build -t felpscouto/docker-php-5.6-oracle .
 ```
 docker run -p 8080:80 -d -v ${pwd}/app:/var/www/html felpscouto/docker-php-5.6-oracle
 ```
+
+Enjoy! 😁
